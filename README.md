@@ -6,7 +6,7 @@
 
 ## About me
 - 👨‍🎓 Computer Engineer
-- 🛡️ Privacy freak
+- 🛡️ Privacy enthusiast
 - <img src="https://git.kska.io/notkshitij/personal_projects/raw/branch/main/assets/server.png" width="25" height="25" align=top> Interested in server management, self-hosting privacy-first cloud services
 - <img src="https://git.kska.io/notkshitij/personal_projects/raw/branch/main/assets/privacy.png" width="25" height="25" align=top> Hosting privacy focused cloud services at <img src="https://git.kska.io/notkshitij/personal_projects/raw/branch/main/assets/kska.svg" width="25" height="25" align="top"> [KSKA](https://kska.io)
 
