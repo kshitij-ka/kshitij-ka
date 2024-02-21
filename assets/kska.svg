@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="12.3567 12.3567 475.2867 475.2867" xmlns="http://www.w3.org/2000/svg">
+  <g style="pointer-events: none;" transform="matrix(1.431414008140564, 0, 0, 1.431414008140564, 78.33197901147577, 78.33197901147571)" lang="en" role="img">
+    <desc>The default KSKA logo.</desc>
+    <title>KSKA Logo</title>
+    <ellipse style="fill: rgb(255, 230, 153); stroke: rgb(0, 0, 0); stroke-width: 0.756529px;" cx="119.929" cy="119.929" rx="166.02" ry="166.02"/>
+    <polygon style="paint-order: stroke; stroke-width: 0.5px; stroke: rgb(0, 0, 0);" points="9.063 166.393 9.063 232.106 72.469 232.066 72.469 175.195 96.517 151.922 157.572 232.105 231.712 232.137 135.941 106.932 226.662 9.023 157.526 9.025"/>
+    <polygon style="paint-order: stroke; stroke-width: 0.5px; stroke: rgb(0, 0, 0);" points="9.063 104.691 9.045 9.454 72.452 9.027 72.452 36.506"/>
+  </g>
+</svg>
