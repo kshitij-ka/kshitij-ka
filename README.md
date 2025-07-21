@@ -34,7 +34,7 @@ Find out more about my projects on my  [self hosted git server](https://git.kska
 </details>
 
 <details>
-  <summary><a href="https://git.kska.io/notkshitij/PiDetectify">2. PiDetectify</a></summary>
+  <summary><a href="https://github.com/kshitij-ka/PiDetectify">2. PiDetectify</a></summary>
 	<ul>
 		<li>Developed a real-time monitoring system using Raspberry Pi, featuring motion detection capabilities.</li>
 		<li>Implemented secure alert dispatch through <a href="https://ntfy.sh/">ntfy.sh</a> for immediate notifications.</li>
@@ -48,7 +48,7 @@ Find out more about my projects on my  [self hosted git server](https://git.kska
 </details>
 
 <details>
-	<summary><a href="https://git.kska.io/notkshitij/CropCompass">3. CropCompass</a></summary>
+	<summary><a href="https://github.com/kshitij-ka/CropCompass">3. CropCompass</a></summary>
 	<ul>
 		<li>Developed a unified dashboard for comprehensive farm management.</li>
 		<li>Enabled real-time tracking and management of farm operations.</li>
@@ -62,9 +62,9 @@ Find out more about my projects on my  [self hosted git server](https://git.kska
 </details>
 
 <details>
-	<summary><a href="https://git.kska.io/notkshitij/Skycrate">4. Skycrate</a></summary>
+	<summary><a href="https://github.com/kshitij-ka/Skycrate">4. Skycrate</a></summary>
 	<ul>
-		<li>Dockerized a <a href="https://git.kska.io/notkshitij/docker-hadoop">Hadoop cluster</a> to resolve dependency issues, hosting it internally and exposing it to the team via Tailscale.</li>
+		<li>Dockerized a <a href="https://github.com/kshitij-ka/docker-hadoop">Hadoop cluster</a> to resolve dependency issues, hosting it internally and exposing it to the team via Tailscale.</li>
 		<li>Integrated internationalization (i18n) for multilingual support across the frontend.</li>
 		<li>Implemented hybrid RSA-AES encryption for each file, utilizing user-specific key pairs.</li>
 		<li>Established strong password policies with breach checks via Have I Been Pwned.</li>
