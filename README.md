@@ -11,7 +11,7 @@
 - 👨‍🎓Computer Engineer
 - 🛡️ Privacy enthusiast
 - <img src="./assets/misc/server.png" width=25 height=25 align=top alt="Server icon"/>&nbsp;Interested in server management, self-hosting privacy-first cloud services
-- <img src="https://git.kska.io/notkshitij/personal_projects/raw/branch/main/assets/privacy.png" width="25" height="25" align=top alt="Lock icon"/>&nbsp;Hosting privacy focused cloud services at &nbsp;<img src="assets/misc/kska.svg" width=25 height=25 align="top" alt="KSKA logo"/>&nbsp; [KSKA](https://kska.io)
+- <img src="./assets/misc/privacy.png" width="25" height="25" align=top alt="Lock icon"/>&nbsp;Hosting privacy focused cloud services at &nbsp;<img src="assets/misc/kska.svg" width=25 height=25 align="top" alt="KSKA logo"/>&nbsp; [KSKA](https://kska.io)
 
 Find out more about my projects on my  [self hosted git server](https://git.kska.io/notkshitij/)!
 
